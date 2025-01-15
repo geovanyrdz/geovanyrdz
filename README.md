@@ -9,7 +9,6 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/geovany-rodriguez/)
 - [Portfolio](https://geovanyrdz.github.io/my-website-portfolio/)
-- [GitHub Projects](https://github.com/geovanyrdz)
 
 ---
 
