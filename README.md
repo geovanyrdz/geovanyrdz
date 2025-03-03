@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eduardo Geovany Rodríguez González
 
-**Data Scientist | Business Analytics | Online Marketing | eCommerce Brand Growth & Development**
+**Data Scientist | Business Analytics**
 
 🌟 Passionate about transforming data into actionable insights and driving impactful decisions through analytics, machine learning, and visualization.
 
